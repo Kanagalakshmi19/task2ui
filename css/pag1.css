@@ -1,0 +1,145 @@
+h4{
+
+    color: white;
+    font-size: 20px;
+    
+}
+p{
+    
+    font-family: 'Hind Siliguri', sans-serif;
+    color: white;
+    font-size: 70px;
+   
+}
+body{
+    background-image: url(../image/front.jpg);
+    background-position: fixed;
+    top: 1000px;
+    width: 100px 200px;
+    height: 90px;
+    background-position: center ;
+    background-size: 2450px 1200px;
+    background-repeat: no-repeat;
+}
+h5{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: white;
+    word-spacing: 60px;
+    font-size: 40px;
+   
+ }
+ p2{
+    font-family: 'Hind Siliguri', sans-serif;
+     font-size: 20px;
+     color: rgba(235, 230, 230, 0.959);
+
+ }
+p3{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+    color: rgba(235, 230, 230, 0.959);
+
+}
+p1{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgba(235, 230, 230, 0.959);;
+    font-size: 20px;
+    
+  
+}
+.button1{
+    border-radius: 9px;
+    color: rgba(255, 255, 255, 0.904);;
+    background-color: rgb(35, 176, 223);
+    padding: 20px;
+    font-size: 20px;
+    font-family:'Hind', sans-serif;
+    width: 200px;
+    display: inline-block;
+}
+h7{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgba(255, 255, 255, 0.904);
+    font-size: 19px;
+}
+P4{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: black;
+    font-size: 19px;
+    
+}
+.vcc{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(20, 20, 20);
+    font-size: 45px;
+    
+}
+p6{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+
+}
+h3{
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(31, 31, 31);
+}
+.button2{
+    font-family:'Hind', sans-serif;
+    border-radius: 9px;
+    background-color: rgb(168, 201, 214);
+    width: 100px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    color: white;
+    width: 150px;
+    display: inline-block;
+    font-size: 20px;
+
+}
+img1{
+    max-width: 100%;
+  height: auto;
+}
+.button5,.button6{
+    font-family:'Hind', sans-serif;
+    border-radius: 9px;
+    background-color: rgb(168, 201, 214);
+    width: 100px;
+    padding: 10px 10px;
+    border:  rgb(168, 201, 214);
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    
+
+
+}
+.button3,.button4{
+    font-family:'Hind', sans-serif;
+    border-radius: 9px;
+    background-color: rgb(207, 202, 202);
+    width: 100px;
+    padding: 10px 10px;
+    border:  rgb(168, 201, 214);
+    color: white;
+    font-size: 20px;
+
+
+}
+.button7{
+    font-family:'Hind', sans-serif;
+    border-radius: 9px;
+    background-color: rgb(168, 201, 214);
+    width: 100px;
+    padding: 10px 10px;
+    border:  rgb(168, 201, 214);
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    width: 150px;
+}
+@media screen and (max-width:200px){
+    .can,.tac,.doc{
+        width: 1000px;
+    }
+}
