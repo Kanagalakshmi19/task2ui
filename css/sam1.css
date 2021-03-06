@@ -1,0 +1,126 @@
+
+
+
+
+
+.cvp{
+position: absolute;
+top: 23%;
+left: 35%;
+font-family: 'Hind Siliguri', sans-serif;
+color: rgba(255, 255, 255, 0.966);
+font-size: 70px;
+font-weight: 300;
+font-stretch: wider;
+
+
+}
+.cpp{
+    position: absolute;
+    top: 2%;
+    left: 10%;
+    font-family: 'Hind Siliguri', sans-serif;
+color: white;
+font-size: 40px;
+border: slategray;
+}
+
+.doo{
+    position: absolute;
+    top: 2%;
+    left: 60%;
+    font-family: 'Hind Siliguri', sans-serif;
+color: rgb(236, 235, 235);
+border: lightgray;
+
+}
+.button{
+    padding: 1%;
+    border-radius: 6px;
+    background-color: rgb(168, 195, 206);
+    border-color: white;
+    border-style: solid;
+    width: 25%;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: white;
+    font-size: 20px;
+
+}
+.line{
+    position: absolute;
+    top: 22%;
+    left: 48%;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(243, 235, 235);
+font-weight: 1000;
+}
+.button1{
+    border-radius: 8px;
+    background-color: rgb(68, 190, 238);
+    position: absolute;
+    top: 37%;
+    left: 47%;
+    padding: 15px;
+    width: 8%;
+    font-size: 20px;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(236, 235, 235);
+border: lightgray;
+
+}
+.fav{
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    position: relative;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: 800;
+}
+.fa{
+
+    font-family: 'Hind Siliguri', sans-serif;
+    position: relative;
+    margin-top: 5%;
+    font-size: 20px;
+    font-weight: 590; 
+    margin-left: 44.5%;
+    font-size: 50px;
+}
+.sec
+{
+position: relative;
+margin-left: 30%;
+margin-top: 2%;
+
+}
+.oo{
+    position: relative;
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.pp{
+    position: relative;
+    margin-left: 21%;
+    margin-top: 2%; 
+}
+.mm{
+    position: relative;
+    margin-left: 25%;
+    margin-top: 2%;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 26px;
+    font-weight: 500;
+}
+.ww{
+    position: relative;
+     left: 19%;
+    top: 5%;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.kk{
+    position: relative;
+    left: 20%;
+    top: 1%;
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
